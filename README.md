@@ -45,10 +45,11 @@
 
 ## Как запустить?
 1. Для запуска необходимо с помощью файла *requirements.txt* установить все нужные библиотеки:
+   
    ```pip install -r requirements.txt```
 
    После запустить *main.py*, и программа будет запущена
-2. 
+2. Скачать готовый [exe](https://github.com/keyfawn/Bookery/releases/tag/v1.0.0) и запустить
 
 ## Контакты
 [Мой тг](https://lessoleg.t.me/)
